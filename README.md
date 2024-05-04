@@ -18,9 +18,8 @@ The pinout diagram of my DevKit is [this](https://land-boards.com/blwiki/images/
 - D5 --> DHT11 (input)
 
 ## photo 📸
-![IMG_20240504_134659](https://github.com/pianoforte33/ESP32-DHT11-WebServer/assets/79628894/fefbb345-e0b5-4207-898a-21aa77068877)
-![IMG20240504134321](https://github.com/pianoforte33/ESP32-DHT11-WebServer/assets/79628894/5d02c878-bfa0-4b7a-a89a-3598a21b85d9)
-
+<img src="https://github.com/pianoforte33/ESP32-DHT11-WebServer/assets/79628894/fefbb345-e0b5-4207-898a-21aa77068877" height=400 width=256/> <br>
+<img src="https://github.com/pianoforte33/ESP32-DHT11-WebServer/assets/79628894/5d02c878-bfa0-4b7a-a89a-3598a21b85d9" height=256 width=400/>
 
 ## troubleshooting 🚩
 - Rember to replace the SSID and the password with your credential.
