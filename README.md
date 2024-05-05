@@ -4,7 +4,7 @@ A simple thermoemeter and humidity meter created using an esp32, a DHT11 sensor,
 ## component 🔌
 - 1 x ESP32 DevKit (i used a *ESP32-WROOM-32D*)
 - 1 x DHT11
-- 2 x 128x64 OLED display
+- 1 x 128x64 OLED display
 - 1 x push button
 - 1 x 10K ohm resistor
 - 2 x breadboard
