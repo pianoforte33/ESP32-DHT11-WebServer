@@ -23,5 +23,5 @@ The pinout diagram of my DevKit is [this](https://land-boards.com/blwiki/images/
 
 ## troubleshooting 🚩
 - Rember to replace the SSID and the password with your credential.
-- To display the ip address to connect to check the serial monitor.
+- To display the ip address to connect tò, check the serial monitor.
 - Use a pull down resistor
